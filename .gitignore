@@ -1,0 +1,7 @@
+api/dist
+api/generated
+api/node_modules
+api/prisma/migrations
+api/src/tmp
+api/.vscode
+api/.env
